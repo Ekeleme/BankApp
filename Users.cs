@@ -81,7 +81,7 @@ namespace theBankingApp
                 Console.WriteLine("Welcome to your profile, " + name + "."+ " Acct No: " + accountNumber);
                 Console.WriteLine();
                 Console.WriteLine("Please type one of the options below to proceed...");
-                Console.WriteLine("1) Check your balance.");
+                Console.WriteLine("1) Check your balance. (Balance)");
                 Console.WriteLine("2) Withdraw.");
                 Console.WriteLine("3) Deposit.");
                 Console.WriteLine("4) Delete Account. (Delete)");
