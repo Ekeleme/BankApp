@@ -84,7 +84,7 @@ namespace theBankingApp
                 Console.WriteLine("1) Check your balance.");
                 Console.WriteLine("2) Withdraw.");
                 Console.WriteLine("3) Deposit.");
-                Console.WriteLine("4) Delete Account.");
+                Console.WriteLine("4) Delete Account. (Delete)");
                 Console.WriteLine("5) SignOut");
                 Console.WriteLine();
                 Console.WriteLine("Or type and enter \"info\" to view your personel information. ");
